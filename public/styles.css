@@ -1,0 +1,35 @@
+body{
+    background-color: azure;
+    background-image: url(./images/gym.jpeg);
+    
+}
+.App{
+    margin-top: 10vh;
+        display: flexbox;
+   background-color:rgba(11, 20, 2, 0.2);
+   
+ height: 87vh;
+    justify-content: end;
+    text-align: center;
+    color: azure;
+}
+h1{
+    font-size: 87px;
+    font-weight: bolder;
+-webkit-text-stroke: 1.5px black;
+}
+.option{
+ margin-top: 54px;
+ display: flex;
+ flex-direction: column;
+ gap: 22px;
+ justify-content: end;
+    text-align: center;
+
+}
+button{
+   margin: auto;
+    width: 133px;
+    height: 22px;
+    text-align: center;
+}
